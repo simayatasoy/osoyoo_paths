@@ -1,0 +1,7 @@
+{
+  "robot": "osoyoo_5",
+  "vicon_topic": "vicon/default/data",
+  "speed_m_s": 0.3,
+  "diameter_m": 1.5,
+  "duration_s": 20
+}

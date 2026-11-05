@@ -1,0 +1,21 @@
+{
+  "robot": "osoyoo_5",
+  "vicon_topic": "vicon/default/data",
+  "speed_m_s": 0.3,
+  "direction_deg": 0,
+  "zigzag_angle_deg": 45,
+  "strip_length_m": 0.8,
+  "strips": 6,
+  "turn_radius_m": 0.4,
+  "safe_area": {
+    "x": [
+      -1.2,
+      1.2
+    ],
+    "y": [
+      -0.8,
+      0.8
+    ]
+  },
+  "duration_s": 60
+}
